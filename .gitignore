@@ -591,3 +591,6 @@ FodyWeavers.xsd
 **/App_Data/Models/ood.flag
 
 # End of https://www.toptal.com/developers/gitignore/api/aspnetcore,umbraco,windows,macos,visualstudio,visualstudiocode
+
+# New Umbraco ignore
+**/umbraco/Data/TEMP/*
