@@ -15,7 +15,7 @@ ACCEPT_EULA=Y
 MSSQL_PID=Express
 ```
 
-`SA_PASSWORD` is the password for your database. (Username is `Sa`)
+`SA_PASSWORD` is the password for your database. (Username is `sa`)
 `ACCEPT_EULA` sets if you accept the conditions of Mssql.
 `MSSQL_PID` sets the version of Mssql you're running.
 
